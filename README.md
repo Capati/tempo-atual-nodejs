@@ -2,7 +2,7 @@
 Exibe informações do tempo atual
 
 ```
-node app.js "São Paulo"
+node app.js Campinas
 ```
 
  Saída:
